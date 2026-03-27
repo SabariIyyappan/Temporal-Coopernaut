@@ -8,7 +8,7 @@ AGENTCONFIG=ckpts/config.yaml
 AGENT=NeuralAgents/dagger_agent.py
 #AGENT=AutoCastSim/AVR/autocast_agents/simple_agent.py
 CONFIG=benchmark/scene6.json
-CARLA_WORKERS=2
+CARLA_WORKERS=1
 NUMRUN=0
 kill $(pgrep Carla)
 kill $(pgrep mosquitto)

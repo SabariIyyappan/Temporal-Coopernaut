@@ -155,3 +155,8 @@ cython_debug/
 
 # default evaluation folder
 result
+
+CARLA_0.9.11.tar.gz
+CLAUDE.md
+MinkowskiEngine/
+carla_0.9.11/
